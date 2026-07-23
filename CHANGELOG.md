@@ -100,4 +100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Support
 
 - Java 11+ required
-- GitHub Issues: https://github.com/SandeepVattapparambil/lattesplash-java/issues
+- GitHub Issues: https://github.com/Sandeepv68/lattesplash-java/issues
