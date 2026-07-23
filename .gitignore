@@ -1,0 +1,41 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Environment and secrets
+.env
+.env.*
+secrets.*
+credentials.*
+*.pem
+*.key
