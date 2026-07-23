@@ -1,9 +1,18 @@
+<p align="center">
+  <img src="assets/logo.png" alt="LatteSplash Logo" width="300">
+</p>
+
 # LatteSplash v1.0.0
 
 [![license](https://img.shields.io/github/license/Sandeepv68/lattesplash-java.svg)](https://github.com/Sandeepv68/lattesplash-java/blob/main/LICENSE) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![CI](https://github.com/Sandeepv68/lattesplash-java/workflows/CI/badge.svg)](https://github.com/Sandeepv68/lattesplash-java/actions?query=workflow%3ACI) ![GitHub issues](https://img.shields.io/github/issues/Sandeepv68/lattesplash-java.svg) ![GitHub forks](https://img.shields.io/github/forks/Sandeepv68/lattesplash-java.svg) ![GitHub stars](https://img.shields.io/github/stars/Sandeepv68/lattesplash-java.svg)
 
 
-LatteSplash is a production-ready, synchronous + asynchronous API wrapper for the popular [Unsplash](https://unsplash.com/) platform, written in **Java 11**. It is a faithful port of the [wrapsplash](https://github.com/SandeepVattapparambil/wrapsplash) npm module, supporting all original features with idiomatic Java conventions.
+**Highlights:**
+- Synchronous + asynchronous API support
+- Java 11+ (compatible with all JVM languages: Kotlin, Scala, Groovy, Clojure, etc.)
+- Faithful port of the [wrapsplash](https://github.com/SandeepVattapparambil/wrapsplash) npm module
+
+LatteSplash is a production-ready API wrapper for the popular [Unsplash](https://unsplash.com/) platform, written in **Java 11**.
 
 Unsplash provides beautiful high quality free images and photos that you can download and use for any project without any attribution.
 
