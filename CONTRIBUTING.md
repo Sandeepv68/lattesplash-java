@@ -28,7 +28,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
    ```
 3. Add the upstream remote:
    ```sh
-   git remote add upstream https://github.com/SandeepVattapparambil/lattesplash-java.git
+   git remote add upstream https://github.com/Sandeepv68/lattesplash-java.git
    ```
 4. Create a feature branch:
    ```sh
@@ -283,7 +283,7 @@ Any other information
 
 ### Where to Report
 
-- GitHub Issues: https://github.com/SandeepVattapparambil/lattesplash-java/issues
+- GitHub Issues: https://github.com/Sandeepv68/lattesplash-java/issues
 
 ## Requesting Features
 
