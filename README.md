@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="LatteSplash Logo" width="300">
+  <img src="assets/logo.png" alt="LatteSplash Logo" width="600">
 </p>
 
 # LatteSplash v1.0.0
